@@ -1,15 +1,14 @@
 # Hi there, I'm Fadhillah Pandu Pradana - aka [Fadhil](https://www.linkedin.com/in/fadhillahpandu) 👋
 ## About me:
 - 🔭 I’m currently working at [Huawei](https://www.huawei.com/en/?ic_medium=direct&ic_source=surlent)
-- 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Analyst
-- 🤔 I’m looking for suggest for Automation and Data Analyst
+- 🌱 I’m currently learning UI/UX Designer
+- 👯 I’m looking to collaborate as Backend Engineer and Frontend Engineer
 - 💬 Ask me about anything
-- 📫 How to reach me: vincentwidyan@gmail.com
+- 📫 How to reach me: fpandu88@gmail.com
 
 ## Education:
 
-#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Bachelor of Electrical Engineering | Yogyakarta `2016-2020`
+#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Bachelor of Indonesian Language and Literature | Yogyakarta `2015-2019`
    - Asistant Laboratorium of Basic Electronics
    - Asistant Laboratorium of Installation
    - Tutor of Engineering Mathematics
